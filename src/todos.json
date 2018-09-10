@@ -1,0 +1,35 @@
+{
+  "todos":[
+    {
+      "title": "Task 1",
+      "responsible": "Juan",
+      "description": "Lorem Inpsu 1",
+      "priority": "Low"
+    },{
+      "title": "Task 2",
+      "responsible": "Pedro",
+      "description": "Lorem Inpsu 2",
+      "priority": "Medium"
+    },{
+      "title": "Task 3",
+      "responsible": "Jose",
+      "description": "Lorem Inpsu 3",
+      "priority": "High"
+    },{
+      "title": "Task 4",
+      "responsible": "Maria",
+      "description": "Lorem Inpsu 4",
+      "priority": "Low"
+    },{
+      "title": "Task 5",
+      "responsible": "Jesus",
+      "description": "Lorem Inpsu 5",
+      "priority": "Low"
+    },{
+      "title": "Task 6",
+      "responsible": "Luis",
+      "description": "Lorem Inpsu 6",
+      "priority": "High"
+    }
+  ]
+}
